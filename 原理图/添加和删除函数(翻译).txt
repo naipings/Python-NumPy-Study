@@ -1,0 +1,8 @@
+ 添加和删除函数
+
+delelte	return a new array with sub-arrays along an axis deleted	返回一个新数组，其中删除了沿轴的子数组
+insert(arr, obj, values[, axis])	insert values along the given axis	沿给定轴插入值
+append(arr, values[, axis])	append values to the end of an array	将值附加到数组的末尾
+resize(a, new_shape)	return a new array with the specified shape	返回具有指定形状的新数组
+concatenate((a1, a2, ...), axis=-0)	join a sequence of arrays along an existing axis	沿现有轴连接数组序列
+
